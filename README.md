@@ -5,7 +5,7 @@
 # 🚀 Full-Stack & ML Specialist 🇱🇰
 
 ### **Full-Stack Developer • Data Science Researcher • ML Enthusiast**
-`React Native` | `Spring Boot` | `MERN` | `Python AI`
+`React` | `Java` | `Python` | `Golang`
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=DiiLANA&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
@@ -19,10 +19,10 @@
 
 | Category | Stack |
 | :--- | :--- |
+| **Backend** | `Java` `Spring Boot` `Node.js` `Golang` `Python` `PHP`|
+| **Frontend** | `React` `Next.js` `Wordpress` `HTML` `CSS` `Javascript`|
 | **AI & Data Science** | `Python` `Pandas` `Scikit-Learn` `R` |
-| **Backend** | `Java` `Spring Boot` `Node.js` `Express` `MySQL` `MongoDB` |
-| **Frontend** | `React` `Next.js` `TypeScript` `TailwindCSS` `Nativewind` `Javascript`|
-| **Tools** | `Docker` `Git` `Firebase` `Vercel` `Postman` |
+| **Tools** | `GCP` `Docker` `Git` `AWS` `Vercel` `AZURE` |
 
 ---
 
